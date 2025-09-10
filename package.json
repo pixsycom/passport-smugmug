@@ -1,6 +1,6 @@
 {
   "name": "passport-smugmug",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "SmugMug authentication strategy for Passport.",
   "keywords": ["passport", "smugmug", "auth", "authn", "authentication", "identity"],
   "repository": {
@@ -21,7 +21,6 @@
   } ],
   "main": "./lib/passport-smugmug",
   "dependencies": {
-    "pkginfo": "0.2.x",
     "passport-oauth": "^1.0.0"
   },
   "devDependencies": {
